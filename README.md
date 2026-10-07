@@ -1,0 +1,1 @@
+This is essentially a fork of the game Kingdoms. I plan to finish what the creator started and get the game to 1.0 and hopefully add some of my own features and systems along the way. If you want to contribute feel free to make a PR.
